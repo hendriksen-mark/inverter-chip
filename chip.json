@@ -1,13 +1,23 @@
 {
-  "version": 1,
-  "name": "Inverter",
-  "author": "Uri Shaked",
-  "license": "MIT",
-  "docs": "https://github.com/wokwi/inverter-chip/blob/main/docs/README.md",
+  "name": "pcf8574",
+  "author": "Tim D",
   "pins": [
-    "OUT",
-    "IN",
-    "VCC",
-    "GND"
-  ]
+    "A0",
+    "A1",
+    "A2",
+    "P0",
+    "P1",
+    "P2",
+    "P3",
+    "GND",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "nINT",
+    "SCL",
+    "SDA",
+    "VCC"
+  ],
+  "controls": []
 }
